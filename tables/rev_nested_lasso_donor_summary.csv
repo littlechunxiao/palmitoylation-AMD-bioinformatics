@@ -1,0 +1,21 @@
+,0
+n_features_total,33
+cv_folds,5
+group_by,donor
+inner,GroupKFold(donor)
+fold_aucs,"0.744,0.773,0.904,0.555,0.702"
+mean_auc,0.7355888555888557
+sd_auc,0.126142458945431
+ci_lo,0.6250201152728793
+ci_hi,0.8461575959048321
+pooled_auc,0.6890538033395177
+pooled_ci_lo,0.5586394013099565
+pooled_ci_hi,0.8047453058384579
+ci_method,donor-bootstrap(n=2000)
+optimal_threshold,0.6273968801618556
+accuracy,0.7211538461538461
+precision,0.8125
+recall,0.5306122448979592
+f1,0.6419753086419753
+n_selected_genes_per_fold,"12,20,19,19,26"
+note,Nested CV; outer AND inner loops donor-grouped (GroupKFold); donor-level bootstrap CI
