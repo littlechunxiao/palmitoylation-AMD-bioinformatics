@@ -1,0 +1,17 @@
+key	value
+source	GSE203499 (GEO), human retina and RPE/choroid scRNA-seq
+raw_samples	40
+raw_cells_before_QC	277229
+cells_after_QC	18659
+cells_AMD	10595
+cells_Normal	8064
+celltype_level	17
+celltype8_merge	8
+body_claimed_cells	19026
+body_claimed_celltypes	8
+bulk33_genes_detected_in_scRNA	33
+bulk33_queried_in_dotplot	33
+body_claimed_overlap30	30
+key_gene_conclusions_match	False
+gene_detection_pct_by_8celltype	scRNA_validation_detection_by_celltype.tsv
+notes	Reproduced from raw Cell Ranger matrices with Scanpy; streaming QC+balanced downsampling to manage RAM; 33/33 bulk-detectable genes present; LYPLAL1 and ZDHHC6 broadly expressed, PPT2/ZDHHC16 restricted - consistent with manuscript. Minor deviations in a few cell types reflect higher-resolution clustering and downsampling. AMD-vs-Normal differential expression intentionally not tested (consistent with manuscript).

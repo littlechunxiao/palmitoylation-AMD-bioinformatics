@@ -1,0 +1,33 @@
+gene	cell_type8	n_cells	detection_pct
+LYPLAL1	Myeloid/macrophage/microglia	1894	11.7
+LYPLAL1	Muller glia	4342	31.2
+LYPLAL1	Cone photoreceptor	2496	27.6
+LYPLAL1	Rod photoreceptor	3121	15.2
+LYPLAL1	Endothelial	398	33.2
+LYPLAL1	RPE	2842	34.6
+LYPLAL1	Pericyte	1762	16.9
+LYPLAL1	T/NK	1804	3.1
+ZDHHC6	Myeloid/macrophage/microglia	1894	13.4
+ZDHHC6	Muller glia	4342	7.8
+ZDHHC6	Cone photoreceptor	2496	8.2
+ZDHHC6	Rod photoreceptor	3121	8.5
+ZDHHC6	Endothelial	398	32.2
+ZDHHC6	RPE	2842	18.7
+ZDHHC6	Pericyte	1762	18.2
+ZDHHC6	T/NK	1804	13.8
+PPT2	Myeloid/macrophage/microglia	1894	1.4
+PPT2	Muller glia	4342	4.5
+PPT2	Cone photoreceptor	2496	9.4
+PPT2	Rod photoreceptor	3121	4.5
+PPT2	Endothelial	398	16.1
+PPT2	RPE	2842	8.2
+PPT2	Pericyte	1762	4.3
+PPT2	T/NK	1804	1.1
+ZDHHC16	Myeloid/macrophage/microglia	1894	3.6
+ZDHHC16	Muller glia	4342	4.0
+ZDHHC16	Cone photoreceptor	2496	8.2
+ZDHHC16	Rod photoreceptor	3121	8.0
+ZDHHC16	Endothelial	398	16.1
+ZDHHC16	RPE	2842	9.9
+ZDHHC16	Pericyte	1762	8.8
+ZDHHC16	T/NK	1804	2.2
