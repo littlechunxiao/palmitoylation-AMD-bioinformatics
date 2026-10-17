@@ -1,0 +1,119 @@
+GEO GSM ID,Sample title,Donor ID,Tissue,Region,Diagnosis,Sex,Age (years),RIN,Diagnosis (grouped)
+GSM738666,Retina_59,IA005-98,extramacular Retina,extramacular,dry AMD,female,63,7.8,AMD
+GSM738665,Retina_58,IA005-98,macular Retina,macular,dry AMD,female,63,6.7,AMD
+GSM738644,Retina_37,IA020-98,extramacular Retina,extramacular,normal,female,76,not determined,normal
+GSM738643,Retina_36,IA020-98,macular Retina,macular,normal,female,76,not determined,normal
+GSM738675,Retina_68,IA035-98,extramacular Retina,extramacular,dry AMD,female,76,7.2,AMD
+GSM738674,Retina_67,IA035-98,macular Retina,macular,dry AMD,female,76,7.2,AMD
+GSM738636,Retina_29,IA039-98,extramacular Retina,extramacular,normal,male,67,6.3,normal
+GSM738635,Retina_28,IA039-98,macular Retina,macular,normal,male,67,6.8,normal
+GSM738634,Retina_27,IA041-99,extramacular Retina,extramacular,normal,female,66,7.1,normal
+GSM738633,Retina_26,IA041-99,macular Retina,macular,normal,female,66,not determined,normal
+GSM738723,Retina_116,IA058-98,extramacular Retina,extramacular,dry AMD,female,94,not determined,AMD
+GSM738722,Retina_115,IA058-98,macular Retina,macular,dry AMD,female,94,not determined,AMD
+GSM738652,Retina_45,IA059-00,extramacular Retina,extramacular,normal,male,88,not determined,normal
+GSM738651,Retina_44,IA059-00,macular Retina,macular,normal,male,88,not determined,normal
+GSM738716,Retina_109,IA068-00,extramacular Retina,extramacular,dry AMD,female,91,6.7,AMD
+GSM738715,Retina_108,IA068-00,macular Retina,macular,dry AMD,female,91,not determined,AMD
+GSM738632,Retina_25,IA070-99,extramacular Retina,extramacular,normal,male,65,5.4,normal
+GSM738631,Retina_24,IA073-98,extramacular Retina,extramacular,normal,male,63,not determined,normal
+GSM738630,Retina_23,IA073-98,macular Retina,macular,normal,male,63,not determined,normal
+GSM738712,Retina_105,IA077-96,extramacular Retina,extramacular,GA,male,90,not determined,AMD
+GSM738711,Retina_104,IA077-96,macular Retina,macular,GA,male,90,not determined,AMD
+GSM738677,Retina_70,IA090-98,extramacular Retina,extramacular,dry AMD,male,77,not determined,AMD
+GSM738676,Retina_69,IA090-98,macular Retina,macular,dry AMD,male,77,6.7,AMD
+GSM738637,Retina_30,IA092-00,macular Retina,macular,normal,female,68,6.6,normal
+GSM738719,Retina_112,IA100-97,extramacular Retina,extramacular,GA/CNV,male,92,6.7,AMD
+GSM738718,Retina_111,IA100-97,macular Retina,macular,GA/CNV,male,92,not determined,AMD
+GSM738714,Retina_107,IA100-98,extramacular Retina,extramacular,MD1,female,90,not determined,pre-AMD
+GSM738713,Retina_106,IA100-98,macular Retina,macular,MD1,female,90,not determined,pre-AMD
+GSM738617,Retina_10,IA100-99,extramacular Retina,extramacular,normal,female,36,not determined,normal
+GSM738616,Retina_9,IA100-99,macular Retina,macular,normal,female,36,not determined,normal
+GSM738721,Retina_114,IA103-00,extramacular Retina,extramacular,MD2,female,93,not determined,pre-AMD
+GSM738720,Retina_113,IA103-00,macular Retina,macular,MD2,female,93,7.0,pre-AMD
+GSM738639,Retina_32,IA106-00,extramacular Retina,extramacular,normal,male,73,7.3,normal
+GSM738638,Retina_31,IA106-00,macular Retina,macular,normal,male,73,6.7,normal
+GSM738725,Retina_118,IA107-97,extramacular Retina,extramacular,dry AMD,female,101,not determined,AMD
+GSM738724,Retina_117,IA107-97,macular Retina,macular,dry AMD,female,101,not determined,AMD
+GSM738710,Retina_103,IA113-00,extramacular Retina,extramacular,CNV,male,87,not determined,AMD
+GSM738709,Retina_102,IA113-00,macular Retina,macular,CNV,male,87,not determined,AMD
+GSM738623,Retina_16,IA115-98,extramacular Retina,extramacular,normal,female,44,not determined,normal
+GSM738622,Retina_15,IA115-98,macular Retina,macular,normal,female,44,not determined,normal
+GSM738687,Retina_80,IA117-00,extramacular Retina,extramacular,CNV,male,79,not determined,AMD
+GSM738686,Retina_79,IA117-00,macular Retina,macular,CNV,male,79,not determined,AMD
+GSM738701,Retina_94,IA124-00,extramacular Retina,extramacular,dry AMD,female,86,not determined,AMD
+GSM738700,Retina_93,IA124-00,macular Retina,macular,dry AMD,female,86,not determined,AMD
+GSM738613,Retina_6,IA132-98,extramacular Retina,extramacular,normal,female,21,not determined,normal
+GSM738612,Retina_5,IA132-98,macular Retina,macular,normal,female,21,not determined,normal
+GSM738671,Retina_64,IA139-98,extramacular Retina,extramacular,dry AMD,male,71,4.7,AMD
+GSM738670,Retina_63,IA139-98,macular Retina,macular,dry AMD,male,71,6.6,AMD
+GSM738611,Retina_4,IA151-98,extramacular Retina,extramacular,normal,male,10,not determined,normal
+GSM738610,Retina_3,IA151-98,macular Retina,macular,normal,male,10,not determined,normal
+GSM738625,Retina_18,IA156-98,extramacular Retina,extramacular,normal,female,49,not determined,normal
+GSM738624,Retina_17,IA156-98,macular Retina,macular,normal,female,49,not determined,normal
+GSM738689,Retina_82,IA163-00,extramacular Retina,extramacular,GA/CNV,female,79,8.0,AMD
+GSM738688,Retina_81,IA163-00,macular Retina,macular,GA/CNV,female,79,6.8,AMD
+GSM738646,Retina_39,IA172-97,extramacular Retina,extramacular,normal,male,78,7.0,normal
+GSM738645,Retina_38,IA172-97,macular Retina,macular,normal,male,78,7.1,normal
+GSM738703,Retina_96,IA173-00,extramacular Retina,extramacular,GA/CNV,female,86,6.9,AMD
+GSM738702,Retina_95,IA173-00,macular Retina,macular,GA/CNV,female,86,not determined,AMD
+GSM738662,Retina_55,IA177-00,extramacular Retina,extramacular,normal,female,93,not determined,normal
+GSM738661,Retina_54,IA177-00,macular Retina,macular,normal,female,93,6.7,normal
+GSM738609,Retina_2,IA177-96,extramacular Retina,extramacular,normal,male,9,not determined,normal
+GSM738608,Retina_1,IA177-96,macular Retina,macular,normal,male,9,7.4,normal
+GSM738683,Retina_76,IA186-98,extramacular Retina,extramacular,CNV,male,78,7.7,AMD
+GSM738682,Retina_75,IA186-98,macular Retina,macular,CNV,male,78,7.6,AMD
+GSM738669,Retina_62,IA191-97,extramacular Retina,extramacular,MD1,male,64,6.9,pre-AMD
+GSM738668,Retina_61,IA191-97,macular Retina,macular,MD1,male,64,not determined,pre-AMD
+GSM738621,Retina_14,IA194-00,extramacular Retina,extramacular,normal,female,40,not determined,normal
+GSM738620,Retina_13,IA194-00,macular Retina,macular,normal,female,40,not determined,normal
+GSM738654,Retina_47,IA195-00,extramacular Retina,extramacular,normal,female,88,not determined,normal
+GSM738653,Retina_46,IA195-00,macular Retina,macular,normal,female,88,7.2,normal
+GSM738679,Retina_72,IA199-00,extramacular Retina,extramacular,dry AMD,female,77,not determined,AMD
+GSM738678,Retina_71,IA199-00,macular Retina,macular,dry AMD,female,77,6.7,AMD
+GSM738650,Retina_43,IA200-00,extramacular Retina,extramacular,normal,female,86,not determined,normal
+GSM738649,Retina_42,IA200-00,macular Retina,macular,normal,female,86,6.9,normal
+GSM738664,Retina_57,IA202-99,extramacular Retina,extramacular,dry AMD,male,43,not determined,AMD
+GSM738663,Retina_56,IA202-99,macular Retina,macular,dry AMD,male,43,not determined,AMD
+GSM738658,Retina_51,IA205-98,extramacular Retina,extramacular,normal,male,91,not determined,normal
+GSM738657,Retina_50,IA205-98,macular Retina,macular,normal,male,91,not determined,normal
+GSM738704,Retina_97,IA213-99,extramacular Retina,extramacular,dry AMD,female,86,not determined,AMD
+GSM738706,Retina_99,IA222-99,extramacular Retina,extramacular,dry AMD,female,86,not determined,AMD
+GSM738705,Retina_98,IA222-99,macular Retina,macular,dry AMD,female,86,not determined,AMD
+GSM738693,Retina_86,IA239-00,extramacular Retina,extramacular,dry AMD,female,80,6.9,AMD
+GSM738692,Retina_85,IA239-00,macular Retina,macular,dry AMD,female,80,not determined,AMD
+GSM738708,Retina_101,IA256-00,extramacular Retina,extramacular,MD1,female,86,6.7,pre-AMD
+GSM738707,Retina_100,IA256-00,macular Retina,macular,MD1,female,86,not determined,pre-AMD
+GSM738667,Retina_60,IA262-00,macular Retina,macular,MD1,male,63,not determined,pre-AMD
+GSM738642,Retina_35,IA266-99,macular Retina,macular,normal,male,74,6.5,normal
+GSM738695,Retina_88,IA285-99,extramacular Retina,extramacular,dry AMD,female,83,not determined,AMD
+GSM738694,Retina_87,IA285-99,macular Retina,macular,dry AMD,female,83,not determined,AMD
+GSM738699,Retina_92,IA294-00,extramacular Retina,extramacular,CNV,female,84,not determined,AMD
+GSM738698,Retina_91,IA294-00,macular Retina,macular,CNV,female,84,not determined,AMD
+GSM738681,Retina_74,IA306-99,extramacular Retina,extramacular,dry AMD,female,77,7.8,AMD
+GSM738680,Retina_73,IA306-99,macular Retina,macular,dry AMD,female,77,7.3,AMD
+GSM738697,Retina_90,IA316-99,extramacular Retina,extramacular,MD1,male,83,not determined,pre-AMD
+GSM738696,Retina_89,IA316-99,macular Retina,macular,MD1,male,83,not determined,pre-AMD
+GSM738717,Retina_110,IA319-00,macular Retina,macular,MD2,male,91,not determined,pre-AMD
+GSM738619,Retina_12,IA341-99,extramacular Retina,extramacular,normal,male,37,not determined,normal
+GSM738618,Retina_11,IA341-99,macular Retina,macular,normal,male,37,not determined,normal
+GSM738685,Retina_78,IA356-99,extramacular Retina,extramacular,dry AMD,male,78,not determined,AMD
+GSM738684,Retina_77,IA356-99,macular Retina,macular,dry AMD,male,78,6.7,AMD
+GSM738629,Retina_22,IA358-99,extramacular Retina,extramacular,normal,male,61,7.7,normal
+GSM738628,Retina_21,IA358-99,macular Retina,macular,normal,male,61,6.5,normal
+GSM738627,Retina_20,IA359-99,extramacular Retina,extramacular,normal,male,49,4.0,normal
+GSM738626,Retina_19,IA359-99,macular Retina,macular,normal,male,49,not determined,normal
+GSM738641,Retina_34,IA377-99,extramacular Retina,extramacular,normal,male,73,6.7,normal
+GSM738640,Retina_33,IA377-99,macular Retina,macular,normal,male,73,not determined,normal
+GSM738615,Retina_8,IA387-99,extramacular Retina,extramacular,normal,male,34,6.7,normal
+GSM738614,Retina_7,IA387-99,macular Retina,macular,normal,male,34,not determined,normal
+GSM738691,Retina_84,IA405-99,extramacular Retina,extramacular,MD2,male,79,not determined,pre-AMD
+GSM738690,Retina_83,IA405-99,macular Retina,macular,MD2,male,79,5.4,pre-AMD
+GSM738673,Retina_66,IA407-99,extramacular Retina,extramacular,GA,female,74,not determined,AMD
+GSM738672,Retina_65,IA407-99,macular Retina,macular,GA,female,74,6.4,AMD
+GSM738648,Retina_41,IA420-99,extramacular Retina,extramacular,normal,female,78,6.4,normal
+GSM738647,Retina_40,IA420-99,macular Retina,macular,normal,female,78,6.5,normal
+GSM738656,Retina_49,IA436-99,extramacular Retina,extramacular,normal,female,90,not determined,normal
+GSM738655,Retina_48,IA436-99,macular Retina,macular,normal,female,90,not determined,normal
+GSM738660,Retina_53,IA448-99,extramacular Retina,extramacular,normal,male,92,7.2,normal
+GSM738659,Retina_52,IA448-99,macular Retina,macular,normal,male,92,not determined,normal

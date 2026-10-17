@@ -1,0 +1,13 @@
+Signature,Type,Genes,Sources,Platform_detected (GPL4133)
+B cells,cell,"MS4A1, CD79A, CD79B, CD19, CR2, FCER2, BLK, PAX5",Newman et al. Nat Methods 2015 (CIBERSORT LM22); Aran et al. Genome Biol 2017 (xCell),8/8 genes detected
+T cells CD4,cell,"CD4, IL7R, CCR7, LEF1, TCF7, SELL, CD3D, CD3E",Newman et al. Nat Methods 2015 (CIBERSORT LM22); Aran et al. Genome Biol 2017 (xCell),8/8 genes detected
+T cells CD8,cell,"CD8A, CD8B, GZMA, GZMB, PRF1, NKG7, KLRB1, CD3D",Newman et al. Nat Methods 2015 (CIBERSORT LM22); Aran et al. Genome Biol 2017 (xCell),8/8 genes detected
+NK cells,cell,"KLRD1, NKG7, GNLY, GZMA, GZMB, PRF1, XCL2, FCGR3A",Newman et al. Nat Methods 2015 (CIBERSORT LM22); Aran et al. Genome Biol 2017 (xCell),8/8 genes detected
+Monocytes,cell,"CD14, LYZ, S100A8, S100A9, CSF1R, FCGR3A, CD163, MSR1",Newman et al. Nat Methods 2015 (CIBERSORT LM22); Aran et al. Genome Biol 2017 (xCell),8/8 genes detected
+Macrophages,cell,"CD68, CD163, MSR1, MRC1, CD80, CD86, CSF1R, CCL2",Newman et al. Nat Methods 2015 (CIBERSORT LM22); Aran et al. Genome Biol 2017 (xCell),7/8 genes detected
+Dendritic cells,cell,"CD1C, CD1D, FCER1A, CLEC10A, LILRA4, GZMB, IRF7, IRF8",Newman et al. Nat Methods 2015 (CIBERSORT LM22); Aran et al. Genome Biol 2017 (xCell),8/8 genes detected
+Mast cells,cell,"CPA3, TPSAB1, TPSB2, FCER1A, MS4A2, KIT, HDC, IL1RL1",Newman et al. Nat Methods 2015 (CIBERSORT LM22); Aran et al. Genome Biol 2017 (xCell),7/8 genes detected
+Neutrophils,cell,"CSF3R, FCGR3B, CXCR2, S100A8, S100A9, CEACAM8, CD177, OLFM4",Newman et al. Nat Methods 2015 (CIBERSORT LM22); Aran et al. Genome Biol 2017 (xCell),7/8 genes detected
+Microglia,cell,"TMEM119, P2RY12, CX3CR1, CSF1R, CD68, AIF1, ITGAM",Newman et al. Nat Methods 2015 (CIBERSORT LM22); Aran et al. Genome Biol 2017 (xCell); retinal microglia markers,7/7 genes detected
+Complement,pathway,"C1QA, C1QB, C1QC, C3, C4A, C4B, C5, CFB, CFD, CFH, CFI, SERPING1","Canonical AMD complement-pathway genes (CFH/C3/CFB/CFI/C1Q; Anderson et al. 2010, Fritsche et al. 2016)",11/12 genes detected
+Inflammation,pathway,"IL6, TNF, IL1B, CXCL8, CCL2, IFNG, IL10, TGFB1",Curated inflammatory-cytokine panel (IL6/TNF/IL1B/CXCL8/CCL2/IFNG/IL10/TGFB1),7/8 genes detected

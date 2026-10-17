@@ -1,119 +1,119 @@
-gsm,gsm,sample_title,tissue,gender,age (years),ocular disease,amd classification,patient identifier,rna integrity number (rin),tissue_type,region,disease,amd_class,group,age_num
+gsm,gsm.1,sample_title,tissue,gender,age (years),ocular disease,amd classification,patient identifier,rna integrity number (rin),tissue_type,region,disease,amd_class,group,age_num
 GSM738608,GSM738608,Retina_1,macular Retina,male,9,normal,normal,IA177-96,7.4,Retina,macular,normal,normal,Normal,9
-GSM738609,GSM738609,Retina_2,extramacular Retina,male,9,normal,normal,IA177-96,not determined,Retina,macular,normal,normal,Normal,9
+GSM738609,GSM738609,Retina_2,extramacular Retina,male,9,normal,normal,IA177-96,not determined,Retina,extramacular,normal,normal,Normal,9
 GSM738610,GSM738610,Retina_3,macular Retina,male,10,normal,normal,IA151-98,not determined,Retina,macular,normal,normal,Normal,10
-GSM738611,GSM738611,Retina_4,extramacular Retina,male,10,normal,normal,IA151-98,not determined,Retina,macular,normal,normal,Normal,10
+GSM738611,GSM738611,Retina_4,extramacular Retina,male,10,normal,normal,IA151-98,not determined,Retina,extramacular,normal,normal,Normal,10
 GSM738612,GSM738612,Retina_5,macular Retina,female,21,normal,normal,IA132-98,not determined,Retina,macular,normal,normal,Normal,21
-GSM738613,GSM738613,Retina_6,extramacular Retina,female,21,normal,normal,IA132-98,not determined,Retina,macular,normal,normal,Normal,21
+GSM738613,GSM738613,Retina_6,extramacular Retina,female,21,normal,normal,IA132-98,not determined,Retina,extramacular,normal,normal,Normal,21
 GSM738614,GSM738614,Retina_7,macular Retina,male,34,normal,normal,IA387-99,not determined,Retina,macular,normal,normal,Normal,34
-GSM738615,GSM738615,Retina_8,extramacular Retina,male,34,normal,normal,IA387-99,6.7,Retina,macular,normal,normal,Normal,34
+GSM738615,GSM738615,Retina_8,extramacular Retina,male,34,normal,normal,IA387-99,6.7,Retina,extramacular,normal,normal,Normal,34
 GSM738616,GSM738616,Retina_9,macular Retina,female,36,normal,normal,IA100-99,not determined,Retina,macular,normal,normal,Normal,36
-GSM738617,GSM738617,Retina_10,extramacular Retina,female,36,normal,normal,IA100-99,not determined,Retina,macular,normal,normal,Normal,36
+GSM738617,GSM738617,Retina_10,extramacular Retina,female,36,normal,normal,IA100-99,not determined,Retina,extramacular,normal,normal,Normal,36
 GSM738618,GSM738618,Retina_11,macular Retina,male,37,normal,normal,IA341-99,not determined,Retina,macular,normal,normal,Normal,37
-GSM738619,GSM738619,Retina_12,extramacular Retina,male,37,normal,normal,IA341-99,not determined,Retina,macular,normal,normal,Normal,37
+GSM738619,GSM738619,Retina_12,extramacular Retina,male,37,normal,normal,IA341-99,not determined,Retina,extramacular,normal,normal,Normal,37
 GSM738620,GSM738620,Retina_13,macular Retina,female,40,normal,normal,IA194-00,not determined,Retina,macular,normal,normal,Normal,40
-GSM738621,GSM738621,Retina_14,extramacular Retina,female,40,normal,normal,IA194-00,not determined,Retina,macular,normal,normal,Normal,40
+GSM738621,GSM738621,Retina_14,extramacular Retina,female,40,normal,normal,IA194-00,not determined,Retina,extramacular,normal,normal,Normal,40
 GSM738622,GSM738622,Retina_15,macular Retina,female,44,normal,normal,IA115-98,not determined,Retina,macular,normal,normal,Normal,44
-GSM738623,GSM738623,Retina_16,extramacular Retina,female,44,normal,normal,IA115-98,not determined,Retina,macular,normal,normal,Normal,44
+GSM738623,GSM738623,Retina_16,extramacular Retina,female,44,normal,normal,IA115-98,not determined,Retina,extramacular,normal,normal,Normal,44
 GSM738624,GSM738624,Retina_17,macular Retina,female,49,normal,normal,IA156-98,not determined,Retina,macular,normal,normal,Normal,49
-GSM738625,GSM738625,Retina_18,extramacular Retina,female,49,normal,normal,IA156-98,not determined,Retina,macular,normal,normal,Normal,49
+GSM738625,GSM738625,Retina_18,extramacular Retina,female,49,normal,normal,IA156-98,not determined,Retina,extramacular,normal,normal,Normal,49
 GSM738626,GSM738626,Retina_19,macular Retina,male,49,normal,normal,IA359-99,not determined,Retina,macular,normal,normal,Normal,49
-GSM738627,GSM738627,Retina_20,extramacular Retina,male,49,normal,normal,IA359-99,4.0,Retina,macular,normal,normal,Normal,49
+GSM738627,GSM738627,Retina_20,extramacular Retina,male,49,normal,normal,IA359-99,4.0,Retina,extramacular,normal,normal,Normal,49
 GSM738628,GSM738628,Retina_21,macular Retina,male,61,normal,normal,IA358-99,6.5,Retina,macular,normal,normal,Normal,61
-GSM738629,GSM738629,Retina_22,extramacular Retina,male,61,normal,normal,IA358-99,7.7,Retina,macular,normal,normal,Normal,61
+GSM738629,GSM738629,Retina_22,extramacular Retina,male,61,normal,normal,IA358-99,7.7,Retina,extramacular,normal,normal,Normal,61
 GSM738630,GSM738630,Retina_23,macular Retina,male,63,normal,normal,IA073-98,not determined,Retina,macular,normal,normal,Normal,63
-GSM738631,GSM738631,Retina_24,extramacular Retina,male,63,normal,normal,IA073-98,not determined,Retina,macular,normal,normal,Normal,63
-GSM738632,GSM738632,Retina_25,extramacular Retina,male,65,normal,normal,IA070-99,5.4,Retina,macular,normal,normal,Normal,65
+GSM738631,GSM738631,Retina_24,extramacular Retina,male,63,normal,normal,IA073-98,not determined,Retina,extramacular,normal,normal,Normal,63
+GSM738632,GSM738632,Retina_25,extramacular Retina,male,65,normal,normal,IA070-99,5.4,Retina,extramacular,normal,normal,Normal,65
 GSM738633,GSM738633,Retina_26,macular Retina,female,66,normal,normal,IA041-99,not determined,Retina,macular,normal,normal,Normal,66
-GSM738634,GSM738634,Retina_27,extramacular Retina,female,66,normal,normal,IA041-99,7.1,Retina,macular,normal,normal,Normal,66
+GSM738634,GSM738634,Retina_27,extramacular Retina,female,66,normal,normal,IA041-99,7.1,Retina,extramacular,normal,normal,Normal,66
 GSM738635,GSM738635,Retina_28,macular Retina,male,67,normal,normal,IA039-98,6.8,Retina,macular,normal,normal,Normal,67
-GSM738636,GSM738636,Retina_29,extramacular Retina,male,67,normal,normal,IA039-98,6.3,Retina,macular,normal,normal,Normal,67
+GSM738636,GSM738636,Retina_29,extramacular Retina,male,67,normal,normal,IA039-98,6.3,Retina,extramacular,normal,normal,Normal,67
 GSM738637,GSM738637,Retina_30,macular Retina,female,68,normal,normal,IA092-00,6.6,Retina,macular,normal,normal,Normal,68
 GSM738638,GSM738638,Retina_31,macular Retina,male,73,normal,normal,IA106-00,6.7,Retina,macular,normal,normal,Normal,73
-GSM738639,GSM738639,Retina_32,extramacular Retina,male,73,normal,normal,IA106-00,7.3,Retina,macular,normal,normal,Normal,73
+GSM738639,GSM738639,Retina_32,extramacular Retina,male,73,normal,normal,IA106-00,7.3,Retina,extramacular,normal,normal,Normal,73
 GSM738640,GSM738640,Retina_33,macular Retina,male,73,normal,normal,IA377-99,not determined,Retina,macular,normal,normal,Normal,73
-GSM738641,GSM738641,Retina_34,extramacular Retina,male,73,normal,normal,IA377-99,6.7,Retina,macular,normal,normal,Normal,73
+GSM738641,GSM738641,Retina_34,extramacular Retina,male,73,normal,normal,IA377-99,6.7,Retina,extramacular,normal,normal,Normal,73
 GSM738642,GSM738642,Retina_35,macular Retina,male,74,normal,normal,IA266-99,6.5,Retina,macular,normal,normal,Normal,74
 GSM738643,GSM738643,Retina_36,macular Retina,female,76,normal,normal,IA020-98,not determined,Retina,macular,normal,normal,Normal,76
-GSM738644,GSM738644,Retina_37,extramacular Retina,female,76,normal,normal,IA020-98,not determined,Retina,macular,normal,normal,Normal,76
+GSM738644,GSM738644,Retina_37,extramacular Retina,female,76,normal,normal,IA020-98,not determined,Retina,extramacular,normal,normal,Normal,76
 GSM738645,GSM738645,Retina_38,macular Retina,male,78,normal,normal,IA172-97,7.1,Retina,macular,normal,normal,Normal,78
-GSM738646,GSM738646,Retina_39,extramacular Retina,male,78,normal,normal,IA172-97,7.0,Retina,macular,normal,normal,Normal,78
+GSM738646,GSM738646,Retina_39,extramacular Retina,male,78,normal,normal,IA172-97,7.0,Retina,extramacular,normal,normal,Normal,78
 GSM738647,GSM738647,Retina_40,macular Retina,female,78,normal,normal,IA420-99,6.5,Retina,macular,normal,normal,Normal,78
-GSM738648,GSM738648,Retina_41,extramacular Retina,female,78,normal,normal,IA420-99,6.4,Retina,macular,normal,normal,Normal,78
+GSM738648,GSM738648,Retina_41,extramacular Retina,female,78,normal,normal,IA420-99,6.4,Retina,extramacular,normal,normal,Normal,78
 GSM738649,GSM738649,Retina_42,macular Retina,female,86,normal,normal,IA200-00,6.9,Retina,macular,normal,normal,Normal,86
-GSM738650,GSM738650,Retina_43,extramacular Retina,female,86,normal,normal,IA200-00,not determined,Retina,macular,normal,normal,Normal,86
+GSM738650,GSM738650,Retina_43,extramacular Retina,female,86,normal,normal,IA200-00,not determined,Retina,extramacular,normal,normal,Normal,86
 GSM738651,GSM738651,Retina_44,macular Retina,male,88,normal,normal,IA059-00,not determined,Retina,macular,normal,normal,Normal,88
-GSM738652,GSM738652,Retina_45,extramacular Retina,male,88,normal,normal,IA059-00,not determined,Retina,macular,normal,normal,Normal,88
+GSM738652,GSM738652,Retina_45,extramacular Retina,male,88,normal,normal,IA059-00,not determined,Retina,extramacular,normal,normal,Normal,88
 GSM738653,GSM738653,Retina_46,macular Retina,female,88,normal,normal,IA195-00,7.2,Retina,macular,normal,normal,Normal,88
-GSM738654,GSM738654,Retina_47,extramacular Retina,female,88,normal,normal,IA195-00,not determined,Retina,macular,normal,normal,Normal,88
+GSM738654,GSM738654,Retina_47,extramacular Retina,female,88,normal,normal,IA195-00,not determined,Retina,extramacular,normal,normal,Normal,88
 GSM738655,GSM738655,Retina_48,macular Retina,female,90,normal,normal,IA436-99,not determined,Retina,macular,normal,normal,Normal,90
-GSM738656,GSM738656,Retina_49,extramacular Retina,female,90,normal,normal,IA436-99,not determined,Retina,macular,normal,normal,Normal,90
+GSM738656,GSM738656,Retina_49,extramacular Retina,female,90,normal,normal,IA436-99,not determined,Retina,extramacular,normal,normal,Normal,90
 GSM738657,GSM738657,Retina_50,macular Retina,male,91,normal,normal,IA205-98,not determined,Retina,macular,normal,normal,Normal,91
-GSM738658,GSM738658,Retina_51,extramacular Retina,male,91,normal,normal,IA205-98,not determined,Retina,macular,normal,normal,Normal,91
+GSM738658,GSM738658,Retina_51,extramacular Retina,male,91,normal,normal,IA205-98,not determined,Retina,extramacular,normal,normal,Normal,91
 GSM738659,GSM738659,Retina_52,macular Retina,male,92,normal,normal,IA448-99,not determined,Retina,macular,normal,normal,Normal,92
-GSM738660,GSM738660,Retina_53,extramacular Retina,male,92,normal,normal,IA448-99,7.2,Retina,macular,normal,normal,Normal,92
+GSM738660,GSM738660,Retina_53,extramacular Retina,male,92,normal,normal,IA448-99,7.2,Retina,extramacular,normal,normal,Normal,92
 GSM738661,GSM738661,Retina_54,macular Retina,female,93,normal,normal,IA177-00,6.7,Retina,macular,normal,normal,Normal,93
-GSM738662,GSM738662,Retina_55,extramacular Retina,female,93,normal,normal,IA177-00,not determined,Retina,macular,normal,normal,Normal,93
+GSM738662,GSM738662,Retina_55,extramacular Retina,female,93,normal,normal,IA177-00,not determined,Retina,extramacular,normal,normal,Normal,93
 GSM738663,GSM738663,Retina_56,macular Retina,male,43,AMD,dry AMD,IA202-99,not determined,Retina,macular,AMD,dry AMD,AMD,43
-GSM738664,GSM738664,Retina_57,extramacular Retina,male,43,AMD,dry AMD,IA202-99,not determined,Retina,macular,AMD,dry AMD,AMD,43
+GSM738664,GSM738664,Retina_57,extramacular Retina,male,43,AMD,dry AMD,IA202-99,not determined,Retina,extramacular,AMD,dry AMD,AMD,43
 GSM738665,GSM738665,Retina_58,macular Retina,female,63,AMD,dry AMD,IA005-98,6.7,Retina,macular,AMD,dry AMD,AMD,63
-GSM738666,GSM738666,Retina_59,extramacular Retina,female,63,AMD,dry AMD,IA005-98,7.8,Retina,macular,AMD,dry AMD,AMD,63
+GSM738666,GSM738666,Retina_59,extramacular Retina,female,63,AMD,dry AMD,IA005-98,7.8,Retina,extramacular,AMD,dry AMD,AMD,63
 GSM738667,GSM738667,Retina_60,macular Retina,male,63,AMD,MD1,IA262-00,not determined,Retina,macular,AMD,MD1,Pre-AMD,63
 GSM738668,GSM738668,Retina_61,macular Retina,male,64,AMD,MD1,IA191-97,not determined,Retina,macular,AMD,MD1,Pre-AMD,64
-GSM738669,GSM738669,Retina_62,extramacular Retina,male,64,AMD,MD1,IA191-97,6.9,Retina,macular,AMD,MD1,Pre-AMD,64
+GSM738669,GSM738669,Retina_62,extramacular Retina,male,64,AMD,MD1,IA191-97,6.9,Retina,extramacular,AMD,MD1,Pre-AMD,64
 GSM738670,GSM738670,Retina_63,macular Retina,male,71,AMD,dry AMD,IA139-98,6.6,Retina,macular,AMD,dry AMD,AMD,71
-GSM738671,GSM738671,Retina_64,extramacular Retina,male,71,AMD,dry AMD,IA139-98,4.7,Retina,macular,AMD,dry AMD,AMD,71
+GSM738671,GSM738671,Retina_64,extramacular Retina,male,71,AMD,dry AMD,IA139-98,4.7,Retina,extramacular,AMD,dry AMD,AMD,71
 GSM738672,GSM738672,Retina_65,macular Retina,female,74,AMD,GA,IA407-99,6.4,Retina,macular,AMD,GA,AMD,74
-GSM738673,GSM738673,Retina_66,extramacular Retina,female,74,AMD,GA,IA407-99,not determined,Retina,macular,AMD,GA,AMD,74
+GSM738673,GSM738673,Retina_66,extramacular Retina,female,74,AMD,GA,IA407-99,not determined,Retina,extramacular,AMD,GA,AMD,74
 GSM738674,GSM738674,Retina_67,macular Retina,female,76,AMD,dry AMD,IA035-98,7.2,Retina,macular,AMD,dry AMD,AMD,76
-GSM738675,GSM738675,Retina_68,extramacular Retina,female,76,AMD,dry AMD,IA035-98,7.2,Retina,macular,AMD,dry AMD,AMD,76
+GSM738675,GSM738675,Retina_68,extramacular Retina,female,76,AMD,dry AMD,IA035-98,7.2,Retina,extramacular,AMD,dry AMD,AMD,76
 GSM738676,GSM738676,Retina_69,macular Retina,male,77,AMD,dry AMD,IA090-98,6.7,Retina,macular,AMD,dry AMD,AMD,77
-GSM738677,GSM738677,Retina_70,extramacular Retina,male,77,AMD,dry AMD,IA090-98,not determined,Retina,macular,AMD,dry AMD,AMD,77
+GSM738677,GSM738677,Retina_70,extramacular Retina,male,77,AMD,dry AMD,IA090-98,not determined,Retina,extramacular,AMD,dry AMD,AMD,77
 GSM738678,GSM738678,Retina_71,macular Retina,female,77,AMD,dry AMD,IA199-00,6.7,Retina,macular,AMD,dry AMD,AMD,77
-GSM738679,GSM738679,Retina_72,extramacular Retina,female,77,AMD,dry AMD,IA199-00,not determined,Retina,macular,AMD,dry AMD,AMD,77
+GSM738679,GSM738679,Retina_72,extramacular Retina,female,77,AMD,dry AMD,IA199-00,not determined,Retina,extramacular,AMD,dry AMD,AMD,77
 GSM738680,GSM738680,Retina_73,macular Retina,female,77,AMD,dry AMD,IA306-99,7.3,Retina,macular,AMD,dry AMD,AMD,77
-GSM738681,GSM738681,Retina_74,extramacular Retina,female,77,AMD,dry AMD,IA306-99,7.8,Retina,macular,AMD,dry AMD,AMD,77
+GSM738681,GSM738681,Retina_74,extramacular Retina,female,77,AMD,dry AMD,IA306-99,7.8,Retina,extramacular,AMD,dry AMD,AMD,77
 GSM738682,GSM738682,Retina_75,macular Retina,male,78,AMD,CNV,IA186-98,7.6,Retina,macular,AMD,CNV,AMD,78
-GSM738683,GSM738683,Retina_76,extramacular Retina,male,78,AMD,CNV,IA186-98,7.7,Retina,macular,AMD,CNV,AMD,78
+GSM738683,GSM738683,Retina_76,extramacular Retina,male,78,AMD,CNV,IA186-98,7.7,Retina,extramacular,AMD,CNV,AMD,78
 GSM738684,GSM738684,Retina_77,macular Retina,male,78,AMD,dry AMD,IA356-99,6.7,Retina,macular,AMD,dry AMD,AMD,78
-GSM738685,GSM738685,Retina_78,extramacular Retina,male,78,AMD,dry AMD,IA356-99,not determined,Retina,macular,AMD,dry AMD,AMD,78
+GSM738685,GSM738685,Retina_78,extramacular Retina,male,78,AMD,dry AMD,IA356-99,not determined,Retina,extramacular,AMD,dry AMD,AMD,78
 GSM738686,GSM738686,Retina_79,macular Retina,male,79,AMD,CNV,IA117-00,not determined,Retina,macular,AMD,CNV,AMD,79
-GSM738687,GSM738687,Retina_80,extramacular Retina,male,79,AMD,CNV,IA117-00,not determined,Retina,macular,AMD,CNV,AMD,79
+GSM738687,GSM738687,Retina_80,extramacular Retina,male,79,AMD,CNV,IA117-00,not determined,Retina,extramacular,AMD,CNV,AMD,79
 GSM738688,GSM738688,Retina_81,macular Retina,female,79,AMD,GA/CNV,IA163-00,6.8,Retina,macular,AMD,GA/CNV,AMD,79
-GSM738689,GSM738689,Retina_82,extramacular Retina,female,79,AMD,GA/CNV,IA163-00,8.0,Retina,macular,AMD,GA/CNV,AMD,79
+GSM738689,GSM738689,Retina_82,extramacular Retina,female,79,AMD,GA/CNV,IA163-00,8.0,Retina,extramacular,AMD,GA/CNV,AMD,79
 GSM738690,GSM738690,Retina_83,macular Retina,male,79,AMD,MD2,IA405-99,5.4,Retina,macular,AMD,MD2,Pre-AMD,79
-GSM738691,GSM738691,Retina_84,extramacular Retina,male,79,AMD,MD2,IA405-99,not determined,Retina,macular,AMD,MD2,Pre-AMD,79
+GSM738691,GSM738691,Retina_84,extramacular Retina,male,79,AMD,MD2,IA405-99,not determined,Retina,extramacular,AMD,MD2,Pre-AMD,79
 GSM738692,GSM738692,Retina_85,macular Retina,female,80,AMD,dry AMD,IA239-00,not determined,Retina,macular,AMD,dry AMD,AMD,80
-GSM738693,GSM738693,Retina_86,extramacular Retina,female,80,AMD,dry AMD,IA239-00,6.9,Retina,macular,AMD,dry AMD,AMD,80
+GSM738693,GSM738693,Retina_86,extramacular Retina,female,80,AMD,dry AMD,IA239-00,6.9,Retina,extramacular,AMD,dry AMD,AMD,80
 GSM738694,GSM738694,Retina_87,macular Retina,female,83,AMD,dry AMD,IA285-99,not determined,Retina,macular,AMD,dry AMD,AMD,83
-GSM738695,GSM738695,Retina_88,extramacular Retina,female,83,AMD,dry AMD,IA285-99,not determined,Retina,macular,AMD,dry AMD,AMD,83
+GSM738695,GSM738695,Retina_88,extramacular Retina,female,83,AMD,dry AMD,IA285-99,not determined,Retina,extramacular,AMD,dry AMD,AMD,83
 GSM738696,GSM738696,Retina_89,macular Retina,male,83,AMD,MD1,IA316-99,not determined,Retina,macular,AMD,MD1,Pre-AMD,83
-GSM738697,GSM738697,Retina_90,extramacular Retina,male,83,AMD,MD1,IA316-99,not determined,Retina,macular,AMD,MD1,Pre-AMD,83
+GSM738697,GSM738697,Retina_90,extramacular Retina,male,83,AMD,MD1,IA316-99,not determined,Retina,extramacular,AMD,MD1,Pre-AMD,83
 GSM738698,GSM738698,Retina_91,macular Retina,female,84,AMD,CNV,IA294-00,not determined,Retina,macular,AMD,CNV,AMD,84
-GSM738699,GSM738699,Retina_92,extramacular Retina,female,84,AMD,CNV,IA294-00,not determined,Retina,macular,AMD,CNV,AMD,84
+GSM738699,GSM738699,Retina_92,extramacular Retina,female,84,AMD,CNV,IA294-00,not determined,Retina,extramacular,AMD,CNV,AMD,84
 GSM738700,GSM738700,Retina_93,macular Retina,female,86,AMD,dry AMD,IA124-00,not determined,Retina,macular,AMD,dry AMD,AMD,86
-GSM738701,GSM738701,Retina_94,extramacular Retina,female,86,AMD,dry AMD,IA124-00,not determined,Retina,macular,AMD,dry AMD,AMD,86
+GSM738701,GSM738701,Retina_94,extramacular Retina,female,86,AMD,dry AMD,IA124-00,not determined,Retina,extramacular,AMD,dry AMD,AMD,86
 GSM738702,GSM738702,Retina_95,macular Retina,female,86,AMD,GA/CNV,IA173-00,not determined,Retina,macular,AMD,GA/CNV,AMD,86
-GSM738703,GSM738703,Retina_96,extramacular Retina,female,86,AMD,GA/CNV,IA173-00,6.9,Retina,macular,AMD,GA/CNV,AMD,86
-GSM738704,GSM738704,Retina_97,extramacular Retina,female,86,AMD,dry AMD,IA213-99,not determined,Retina,macular,AMD,dry AMD,AMD,86
+GSM738703,GSM738703,Retina_96,extramacular Retina,female,86,AMD,GA/CNV,IA173-00,6.9,Retina,extramacular,AMD,GA/CNV,AMD,86
+GSM738704,GSM738704,Retina_97,extramacular Retina,female,86,AMD,dry AMD,IA213-99,not determined,Retina,extramacular,AMD,dry AMD,AMD,86
 GSM738705,GSM738705,Retina_98,macular Retina,female,86,AMD,dry AMD,IA222-99,not determined,Retina,macular,AMD,dry AMD,AMD,86
-GSM738706,GSM738706,Retina_99,extramacular Retina,female,86,AMD,dry AMD,IA222-99,not determined,Retina,macular,AMD,dry AMD,AMD,86
+GSM738706,GSM738706,Retina_99,extramacular Retina,female,86,AMD,dry AMD,IA222-99,not determined,Retina,extramacular,AMD,dry AMD,AMD,86
 GSM738707,GSM738707,Retina_100,macular Retina,female,86,AMD,MD1,IA256-00,not determined,Retina,macular,AMD,MD1,Pre-AMD,86
-GSM738708,GSM738708,Retina_101,extramacular Retina,female,86,AMD,MD1,IA256-00,6.7,Retina,macular,AMD,MD1,Pre-AMD,86
+GSM738708,GSM738708,Retina_101,extramacular Retina,female,86,AMD,MD1,IA256-00,6.7,Retina,extramacular,AMD,MD1,Pre-AMD,86
 GSM738709,GSM738709,Retina_102,macular Retina,male,87,AMD,CNV,IA113-00,not determined,Retina,macular,AMD,CNV,AMD,87
-GSM738710,GSM738710,Retina_103,extramacular Retina,male,87,AMD,CNV,IA113-00,not determined,Retina,macular,AMD,CNV,AMD,87
+GSM738710,GSM738710,Retina_103,extramacular Retina,male,87,AMD,CNV,IA113-00,not determined,Retina,extramacular,AMD,CNV,AMD,87
 GSM738711,GSM738711,Retina_104,macular Retina,male,90,AMD,GA,IA077-96,not determined,Retina,macular,AMD,GA,AMD,90
-GSM738712,GSM738712,Retina_105,extramacular Retina,male,90,AMD,GA,IA077-96,not determined,Retina,macular,AMD,GA,AMD,90
+GSM738712,GSM738712,Retina_105,extramacular Retina,male,90,AMD,GA,IA077-96,not determined,Retina,extramacular,AMD,GA,AMD,90
 GSM738713,GSM738713,Retina_106,macular Retina,female,90,AMD,MD1,IA100-98,not determined,Retina,macular,AMD,MD1,Pre-AMD,90
-GSM738714,GSM738714,Retina_107,extramacular Retina,female,90,AMD,MD1,IA100-98,not determined,Retina,macular,AMD,MD1,Pre-AMD,90
+GSM738714,GSM738714,Retina_107,extramacular Retina,female,90,AMD,MD1,IA100-98,not determined,Retina,extramacular,AMD,MD1,Pre-AMD,90
 GSM738715,GSM738715,Retina_108,macular Retina,female,91,AMD,dry AMD,IA068-00,not determined,Retina,macular,AMD,dry AMD,AMD,91
-GSM738716,GSM738716,Retina_109,extramacular Retina,female,91,AMD,dry AMD,IA068-00,6.7,Retina,macular,AMD,dry AMD,AMD,91
+GSM738716,GSM738716,Retina_109,extramacular Retina,female,91,AMD,dry AMD,IA068-00,6.7,Retina,extramacular,AMD,dry AMD,AMD,91
 GSM738717,GSM738717,Retina_110,macular Retina,male,91,AMD,MD2,IA319-00,not determined,Retina,macular,AMD,MD2,Pre-AMD,91
 GSM738718,GSM738718,Retina_111,macular Retina,male,92,AMD,GA/CNV,IA100-97,not determined,Retina,macular,AMD,GA/CNV,AMD,92
-GSM738719,GSM738719,Retina_112,extramacular Retina,male,92,AMD,GA/CNV,IA100-97,6.7,Retina,macular,AMD,GA/CNV,AMD,92
+GSM738719,GSM738719,Retina_112,extramacular Retina,male,92,AMD,GA/CNV,IA100-97,6.7,Retina,extramacular,AMD,GA/CNV,AMD,92
 GSM738720,GSM738720,Retina_113,macular Retina,female,93,AMD,MD2,IA103-00,7.0,Retina,macular,AMD,MD2,Pre-AMD,93
-GSM738721,GSM738721,Retina_114,extramacular Retina,female,93,AMD,MD2,IA103-00,not determined,Retina,macular,AMD,MD2,Pre-AMD,93
+GSM738721,GSM738721,Retina_114,extramacular Retina,female,93,AMD,MD2,IA103-00,not determined,Retina,extramacular,AMD,MD2,Pre-AMD,93
 GSM738722,GSM738722,Retina_115,macular Retina,female,94,AMD,dry AMD,IA058-98,not determined,Retina,macular,AMD,dry AMD,AMD,94
-GSM738723,GSM738723,Retina_116,extramacular Retina,female,94,AMD,dry AMD,IA058-98,not determined,Retina,macular,AMD,dry AMD,AMD,94
+GSM738723,GSM738723,Retina_116,extramacular Retina,female,94,AMD,dry AMD,IA058-98,not determined,Retina,extramacular,AMD,dry AMD,AMD,94
 GSM738724,GSM738724,Retina_117,macular Retina,female,101,AMD,dry AMD,IA107-97,not determined,Retina,macular,AMD,dry AMD,AMD,101
-GSM738725,GSM738725,Retina_118,extramacular Retina,female,101,AMD,dry AMD,IA107-97,not determined,Retina,macular,AMD,dry AMD,AMD,101
+GSM738725,GSM738725,Retina_118,extramacular Retina,female,101,AMD,dry AMD,IA107-97,not determined,Retina,extramacular,AMD,dry AMD,AMD,101
